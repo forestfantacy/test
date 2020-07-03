@@ -1,0 +1,1 @@
+ENTRYPOINT echo "hello docker"
